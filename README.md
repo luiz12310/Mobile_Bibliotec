@@ -28,7 +28,7 @@ npm i @ionic/cli
 ```
 -   Crie um projeto Ionic com o comando:
 ```sh
-Ionic start 'NomeDoProjeto'
+ionic start 'NomeDoProjeto'
 ```
 
 -  Escolha as opções Angular e NgModules
