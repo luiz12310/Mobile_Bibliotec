@@ -20,7 +20,7 @@
 
 #### Para iniciar o programa 
 
--   Faça o download do repositório [aqui](https://github.com/JpedroSnts/ETECAFCPD/archive/refs/heads/main.zip)
+-   Faça o download do repositório
 
 -   Baixe o pacote do Ionic através do npm no seu terminal cmd
 ```sh
