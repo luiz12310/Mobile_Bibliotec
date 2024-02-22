@@ -2,7 +2,7 @@
 
 ### O que é o BiblioTec?
 
-> O BiblioTec é um sistema para o gerenciamento da biblioteca da Etec Aristóteles Ferreira. Desenvolvido em ambiente de aula, o BiblioTec tem como papel principal o controle do fluxo de livros entre os estudantes, sendo desenvolvido tanto para DeskTop quanto para Mobile Android.
+> O BiblioTec é um sistema para o gerenciamento da biblioteca da Etec Aristóteles Ferreira. Desenvolvido em ambiente de aula, o BiblioTec tem como papel principal o controle do fluxo de livros entre os estudantes, sendo desenvolvido tanto para DeskTop quanto para Mobile Android. Sua parte Mobile tem como principal objetivo a visualização dos livros emprestados para alunos
 
 ### Integrantes
 
