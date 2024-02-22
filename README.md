@@ -13,6 +13,8 @@
 #### Programas de desenvolvimento utilizados
 
 > -   Visual Studio
+> -   Android Studio
+> -   Visual Studio Code
 > -   .NET Framework 4.8
 > -   MySQL Server
 
