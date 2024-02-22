@@ -35,7 +35,7 @@ Ionic start 'NomeDoProjeto'
 
 -  Substitua a pasta 'src' pela pasta do repositório
  
--   Inicialize o programa
+-   Inicialize o programa digitando o seguinte comando no seu cmd
 ```sh
 ionic start
 ```
