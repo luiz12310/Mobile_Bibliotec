@@ -1,0 +1,43 @@
+<ion-header [translucent]="true">
+  <ion-toolbar color="danger">
+    <ion-title>
+      Livros {{ nomeCategoria }}
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+
+  <div id="container">
+
+  <div>
+    <h1>Livros</h1>
+    
+    <ion-list>
+      <ion-item *ngFor="let livro of dados">
+        <ion-label (click)="DetalhesLivro(livro.Codigo)">{{ livro.Titulo }} </ion-label>
+      </ion-item>
+    </ion-list>
+  </div>
+
+  <!-- <ion-thumbnail slot="start">
+  <ion-modal trigger="open-modal{{i}}" [initialBreakpoint]="0.25" [breakpoints]="[0.2, 0.25, 0.5, 0.75]"
+    handleBehavior="cycle">
+    <ng-template>
+      <ion-content class="ion-padding">
+        <div class="ion-margin-top">
+          <ion-label><div class="imgCapa">
+            <img src="{{ item.Capa}}"></div>
+            <h1>{{ item.Titulo }}</h1>
+            <h5>{{ item.Categoria[0].Nome }}</h5>
+            <p>{{ item.Sinopse }}</p>
+          </ion-label>
+          <ion-button>Emprestar</ion-button>
+        </div>
+      </ion-content>
+    </ng-template>
+  </ion-modal> -->
+
+  </div>
+
+</ion-content>
